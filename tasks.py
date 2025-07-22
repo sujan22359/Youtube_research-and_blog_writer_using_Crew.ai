@@ -12,7 +12,7 @@ research_task = Task(
   expected_output='A comprehensive 3 paragraphs long report based on the {topic} with insights from relevant YouTube videos.',
   agent=blog_researcher,
 )
-
+ 
 # Writing task with language model configuration
 write_task = Task(
   description=(

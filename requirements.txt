@@ -5,4 +5,4 @@ google-generativeai
 youtube-transcript-api==0.6.1
 yt-dlp==2023.11.14
 langchain-huggingface
-langchain-google-genai
+langchain-google-genai 

@@ -1,0 +1,8 @@
+crewai==0.148.0
+crewai_tools
+python-dotenv
+google-generativeai
+youtube-transcript-api==0.6.1
+yt-dlp==2023.11.14
+langchain-huggingface
+langchain-google-genai

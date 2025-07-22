@@ -3,7 +3,7 @@ from agents import blog_researcher,blog_writer
 from tasks import research_task,write_task
 from dotenv import load_dotenv
 import os
-
+ 
 load_dotenv()
 
 # Set up environment variables for CrewAI to use Gemini

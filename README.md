@@ -141,40 +141,7 @@ expected_output="Your custom output format..."
 |----------|-------------|----------|
 | `GEMINI_API_KEY` | Google Gemini AI API key | Yes |
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [CrewAI](https://github.com/joaomdmoura/crewAI) - Multi-agent framework
-- [Google Gemini](https://ai.google.dev/) - Language model
-- [YouTube Tools](https://github.com/joaomdmoura/crewAI-tools) - Content research capabilities
-
-## 🐛 Issues & Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](../../issues) page
-2. Create a new issue with detailed description
-3. Include error logs and system information
-
-## 🎯 Future Enhancements
-
-- [ ] Add more content sources (websites, articles)
-- [ ] Implement fact-checking agent
-- [ ] SEO optimization features
-- [ ] Multiple output formats (HTML, PDF)
-- [ ] Batch processing for multiple topics
-- [ ] Web interface for easier usage
-
----
-
-**Made with ❤️ using CrewAI and Google Gemini AI**

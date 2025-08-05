@@ -1,7 +1,7 @@
 # 🤖 YouTube Research & Blog Writer using CrewAI
 
 An intelligent multi-agent system that researches YouTube videos and creates professional blog posts on any topic using CrewAI framework and Google Gemini AI.
-               
+                
 ## ✨ Features
 
 - **Multi-Agent System**: Specialized AI agents for research and writing
